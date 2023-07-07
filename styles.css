@@ -1,0 +1,61 @@
+body{
+    font-size: x-large;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+.sa{
+    color: blue;
+}
+th{
+    background-color: blue;
+    color: white;
+}
+#aa{
+    text-align: center;
+}
+#sd{
+    color: blue;
+}
+#csk{
+    background-color: yellow;
+    color: yellow;
+}
+#dc{
+    background-color: blue;
+    color: blue;
+}
+#gt{
+    background-color: black;
+    color: black;
+}
+#kkr{
+    background-color: indigo;
+    color: indigo;
+}
+#lsg{
+    background-color: cyan;
+    color: cyan;
+}
+#mi{
+    background-color: blue;
+    color: blue;
+}
+#pk{
+    background-color: red;
+    color: red;
+}
+#rr{
+    background-color: deeppink;
+    color: deeppink;
+}
+#rcb{
+    background-color: red;
+    color: red;
+}
+#srh{
+    background-color: orangered;
+    color: orangered;
+}
